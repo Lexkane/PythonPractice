@@ -1,0 +1,13 @@
+<MainWindows>:
+	BoxLayout:
+		size:root.size
+		pos:root.pos
+		orientation:'vertical'
+		
+	Label:
+		text:str(root.counter)
+		font_size:40
+	Button:
+		text:"Increase counter"
+		on_press:root.increase()
+		font_size:40
