@@ -1,0 +1,193 @@
+    Acacia
+    Acanthus
+    Aloe, Socotrine
+    Amaranth
+    American ash
+    Angelica
+    Anthericum
+    Arum
+    Aspen
+    Aster
+    Barberry
+    Basil
+    Bellflower
+    Bellflower
+    Bindweed 
+    Bindweed
+    Blackthorn
+    Bladder
+    Bluebottle
+    Borage
+    Bramble
+    Broom, prickly
+    Broomrape
+    Bryony
+    Buck-bean
+    Bugloss
+    Burdock
+    Celsia
+    Christmas aconite
+    Cinquefoil
+    Clianthus
+    Clove pink
+    Columbine
+    Coltsfoot
+    Coriander
+    Crowfoot
+    Crown Imperial
+    Dahlia
+    Daffodil
+    Daisy
+    Dandelion
+    Date, plum
+    Daylily, yellow
+    Dittany of Crete
+    Dittany of Crete
+    Dittany, white
+    Dock
+    Dodder
+    Dragon-plant
+    Elastic Momordica
+    Enchanter's Nightshade
+    Everlasting
+    Fennel
+    Fieldrush
+    Fig Marigold
+    Foxglove
+    Geranium, clouded
+    Gilliflower, Mahon's
+    Gilliflower, stock
+    Goat's rue
+    Goosefoot
+    Hazel
+    Hedysarum
+    Heath
+    Helenium, smooth
+    Hepatica
+    Hibiscus
+    Hogbean
+    Hollow-root
+    Holly
+    Hollyhock
+    Honesty
+    Honeysuckle
+    Hornbeam
+    Hortensia
+    Hyacinth, expanded
+    Hyacinth, garden
+    Hyacinth, wild
+    Hybrid crinum
+    Indian cane
+    Ipomea tricolor
+    Iris
+    Ivy
+    Jamaica plum
+    Japan rose
+    Jessamine, common white
+    Jessamine, rose
+    Jessamine, Spanish
+    Laburnum
+    Lady's bedstraw
+    Larch
+    Larkspur
+    Laurel
+    Laurestine
+    Lavender
+    Lichen
+    Lilac
+    Lily
+    Lucerne
+    Madder
+    Madder, yellow
+    Manchineel
+    Mandrake
+    Marigold, cape
+    Marigold, garden
+    Marshmallow
+    Marvel of Peru
+    Meadow saffron
+    Meadowsweet
+    Mezereon
+    Milfoil
+    Milkwort
+    Mistletoe
+    Motherwort
+    Mugwort
+    Myrtle
+    Narcissus, white
+    Nettle
+    Nightshade
+    Nosegay
+    Ophrys, fly orchid
+    Orange blossom
+    Osmunda
+    Pansy
+    Parsley
+    Pasque flower
+    Passion flower
+    Peony
+    Peppermint
+    Periwinkle
+    Persian Candytuft
+    Pheasant's eye
+    Pimpernel, red
+    Pink Musk
+    Polemonium
+    Pomegranate
+    Prickly pear
+    Prickly poppy, white
+    Primrose
+    Privet
+    Reed
+    Restharrow
+    Rose
+    Rose, hundred-leaved
+    Rosebay willowherb
+    Rosemary
+    Round-leaved sundew
+    Rue
+    Saffron
+    Sage
+    Sea Lavender
+    Sensitive plant
+    Silverweed
+    Snowball
+    Snowdrop
+    Southernwood
+    Speedwell
+    Star of Bethlehem
+    Starwort
+    Succory
+    Sunflower
+    Sweet Sultan, yellow
+    Sweet William
+    Syringa
+    Tares
+    Teasel
+    Thyme
+    Toadflax
+    Touch-me-not
+    Tuberose
+    Tulip
+    Turnsol
+    Valerian, red
+    Venus's Looking Glass
+    Vervain
+    Violet Ivy
+    Violet, sweet
+    Violet, white
+    Virgin's Bower
+    Virginia Cowslip
+    Virginia Spiderwort
+    Wake-robin
+    Wallflower
+    Water lily
+    Willowherb
+    Woad
+    Wormwood
+    Wreath of Roses
+
+
+
+
+
